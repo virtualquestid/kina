@@ -26,9 +26,5 @@ document.getElementById('help')!.onclick = () => alert(
 'Click the mic button and start speaking! Speech output will be displayed on ' +
 'the message input box and will be sent automatically once you stopped recording.\n' +
 'NOTE: Speech Recognition is not supported on all browsers, so don\'t expect it ' +
-'to work.\n' +
-'\n' +
-'> Anything else <\n' +
-'For more information, you could visit this project\'s repository by clicking ' +
-'the GitHub button, and scroll down.'
+'to work.'
 );
