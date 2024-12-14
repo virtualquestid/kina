@@ -19,7 +19,7 @@ document.getElementById('help')!.onclick = () => alert(
 'The laziest type of help you\'ve ever seen.\n' +
 '\n' +
 '> Languages <\n' +
-'Chiai can speak 3 languages! English, Bahasa Indonesia, and Japanese. She ' +
+'Kina can speak 3 languages! English, Bahasa Indonesia, and Japanese. She ' +
 'can guess what language you\'re using and she\'ll respond in that language.\n' +
 '\n' +
 '> Speech Recognition <\n' +
